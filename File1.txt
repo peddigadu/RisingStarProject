@@ -4,4 +4,9 @@ bug1 fixed File is created
 file one is edited by teammate
 
 bug1 fixed File is created fixed bug1
+<<<<<<< HEAD
 sai venkat
+=======
+
+peddi raju pattigalla
+>>>>>>> 95f0a54 (file1  as peddi raju pattigalla)
