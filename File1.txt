@@ -9,4 +9,4 @@ sai venkat
 =======
 
 peddi raju pattigalla
->>>>>>> 95f0a54 (file1  as peddi raju pattigalla)
+>>>>>>> 95f0a54 (file1  as peddi raju pattigalla) kmkll
