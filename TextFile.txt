@@ -1,6 +1,10 @@
 change 2 File is created ....
-<<<<<<< HEAD
+ HEAD
+ HEAD
 this odifeid by me
+=======
+it is changed by teammate
+>>>>>>> a5b539b277dc4d728da450e8de07b687760bd96c
 =======
 it is changed by teammate
 >>>>>>> a5b539b277dc4d728da450e8de07b687760bd96c
